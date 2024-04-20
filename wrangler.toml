@@ -3,5 +3,5 @@ compatibility_date = "2024-04-20"
 main = "app/api/[[...route]]/route.ts"
 
 [vars]
-TURSO_CONNECTION_URL = "libsql://nextjs-honojs-kei-k23.turso.io"
-TURSO_AUTH_TOKEN = "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTM2MTc5MDAsImlkIjoiMDQ3M2Q1ZmQtYjQzYy00ZWU4LWIwYzAtNWJkOTQyNTRmNTBmIn0.7IBolCSHniH1aslLZSiINcnsZAZUD1XBTgvQP53gpk2SPaymwaym3hpK_4N2rYdZHfEuRYMSYO16Dh06W4b4Bg"
+TURSO_CONNECTION_URL = "..."
+TURSO_AUTH_TOKEN = "..."
