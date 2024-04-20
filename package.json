@@ -15,18 +15,22 @@
     "hono": "^4.2.5",
     "next": "14.2.2",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@types/uuid": "^9.0.8",
     "dotenv": "^16.4.5",
     "drizzle-kit": "^0.20.16",
     "eslint": "^8",
     "eslint-config-next": "14.2.2",
     "postcss": "^8",
+    "rollup-plugin-node-polyfills": "^0.2.1",
     "tailwindcss": "^3.4.1",
-    "typescript": "^5"
+    "typescript": "^5",
+    "wrangler": "^3.51.2"
   }
 }
